@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Ashwagandha Capsules",
+      "price": 299,
+      "image": "/images/ashwagandha.jpg",
+      "category": "Immunity",
+      "description": "Boosts immunity and reduces stress."
+    },
+    {
+      "id": 2,
+      "name": "Triphala Churna",
+      "price": 199,
+      "image": "/images/triphala.jpg",
+      "category": "Digestion",
+      "description": "Improves digestion and detoxifies the body."
+    }
+  ]
+  
