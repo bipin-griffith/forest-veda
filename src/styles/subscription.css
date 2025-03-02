@@ -1,0 +1,19 @@
+.subscription-container {
+    text-align: center;
+    padding: 15px;
+    background: #2d6a4f;
+    color: white;
+  }
+  
+  .subscription-container input {
+    padding: 8px;
+    margin-right: 10px;
+  }
+  
+  .subscription-container button {
+    padding: 8px;
+    background: white;
+    color: #2d6a4f;
+    border-radius: 5px;
+  }
+  

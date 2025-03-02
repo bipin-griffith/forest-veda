@@ -1,0 +1,24 @@
+.admin-container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .admin-form input {
+    display: block;
+    width: 80%;
+    margin: 5px auto;
+    padding: 8px;
+  }
+  
+  .admin-product {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  

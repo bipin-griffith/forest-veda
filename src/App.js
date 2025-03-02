@@ -4,9 +4,7 @@ import Home from "./pages/Home";
 import Shop from "./pages/Shop";
 import ProductDetails from "./pages/ProductDetails";
 import Cart from "./components/Cart";
-import Login from "./pages/Login";
-import Signup from "./pages/Signup";
-import Consultation from "./pages/Consultation";
+import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 
 const App = () => {
@@ -18,10 +16,8 @@ const App = () => {
         <Route path="/shop" element={<Shop />} />
         <Route path="/product/:id" element={<ProductDetails />} />
         <Route path="/cart" element={<Cart />} />
-        <Route path="/login" element={<Login />} />
-        <Route path="/signup" element={<Signup />} />
-        <Route path="/consultation" element={<Consultation />} />
       </Routes>
+      <Footer />
     </Router>
   );
 };

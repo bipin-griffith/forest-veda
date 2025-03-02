@@ -3,7 +3,7 @@
       "id": 1,
       "name": "Ashwagandha Capsules",
       "price": 299,
-      "image": "/images/ashwagandha.jpg",
+      "image": "../assets/Thyro_1_540x.webp",
       "category": "Immunity",
       "description": "Boosts immunity and reduces stress."
     },
@@ -11,7 +11,55 @@
       "id": 2,
       "name": "Triphala Churna",
       "price": 199,
-      "image": "/images/triphala.jpg",
+      "image": "../assets/Thyro_1_540x.webp",
+      "category": "Digestion",
+      "description": "Improves digestion and detoxifies the body."
+    },
+    {
+      "id": 3,
+      "name": "Ashwagandha Capsules",
+      "price": 299,
+      "image": "../assets/Thyro_1_540x.webp",
+      "category": "Immunity",
+      "description": "Boosts immunity and reduces stress."
+    },
+    {
+      "id": 4,
+      "name": "Triphala Churna",
+      "price": 199,
+      "image": "../assets/Thyro_1_540x.webp",
+      "category": "Digestion",
+      "description": "Improves digestion and detoxifies the body."
+    },
+    {
+      "id": 5,
+      "name": "Ashwagandha Capsules",
+      "price": 299,
+      "image": "../assets/Thyro_1_540x.webp",
+      "category": "Immunity",
+      "description": "Boosts immunity and reduces stress."
+    },
+    {
+      "id": 6,
+      "name": "Triphala Churna",
+      "price": 199,
+      "image": "../assets/Thyro_1_540x.webp",
+      "category": "Digestion",
+      "description": "Improves digestion and detoxifies the body."
+    },
+    {
+      "id": 7,
+      "name": "Ashwagandha Capsules",
+      "price": 299,
+      "image": "../assets/Thyro_1_540x.webp",
+      "category": "Immunity",
+      "description": "Boosts immunity and reduces stress."
+    },
+    {
+      "id": 8,
+      "name": "Triphala Churna",
+      "price": 199,
+      "image": "../assets/Thyro_1_540x.webp",
       "category": "Digestion",
       "description": "Improves digestion and detoxifies the body."
     }
