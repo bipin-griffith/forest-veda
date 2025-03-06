@@ -1,14 +1,33 @@
 .navbar {
-    display: flex;
-    justify-content: space-between;
-    padding: 15px 20px;
-    background: #2d6a4f;
-    color: white;
-  }
-  
-  .nav-links a {
-    color: white;
-    text-decoration: none;
-    margin: 0 15px;
-  }
-  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  background: #2d6a4f;
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar h1 {
+  font-size: 1.8rem;
+  margin: 0;
+}
+
+.navbar h1 a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 1rem;
+  transition: color 0.3s;
+}
+
+.nav-links a:hover {
+  color: #a8d5ba;
+}
